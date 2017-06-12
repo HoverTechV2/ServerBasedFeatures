@@ -1,0 +1,16 @@
+name: ServerBasedFeatures
+main: me.HoverTechV2.ServerBasedFeatures.Main
+version: 1.0
+authors: [XGreenPlayz12, HoverTechV2]
+description: '§cA variety of features and commands designed to help server administrators enforce the rules, as well as helping server players have a fun experience!'
+commands:
+  fuckoff:
+    description: 'Bans the player and tells them to fuck off.'
+  explode:
+    description: 'Create an explosion at the location of any online player.'
+  hell:
+      description: 'Sets a player on fire.'
+  void:
+      description: 'Teleports a player to the void.'
+  youngman:
+      description: 'Young man, Little whipper snapper, get off my lawn!'
